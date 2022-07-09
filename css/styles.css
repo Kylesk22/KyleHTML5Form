@@ -1,0 +1,45 @@
+h2 {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    border: rgb(219, 217, 217) solid 1px;
+    background-color:rgb(232, 232, 248);
+    height: 60px;
+}
+container {
+    width: 200px;
+}
+form {
+    border: rgb(219, 217, 217) solid 1px;
+
+}
+
+body {
+    margin-top: 10px !important;
+}
+#allradios {
+    background-color: grey;
+    border-radius: 8px;
+    height: 50px;
+    width: 295px;
+    margin-top: 10px;
+}
+
+#message_area {
+    height: 80px;
+}
+p {
+    color: grey;
+    font-size: small;
+}
+#foot {
+    border-top: rgb(219, 217, 217) solid 1px;
+}
+#footCol {
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+#allcontent {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
